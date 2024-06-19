@@ -1,0 +1,60 @@
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\bin\Debug\net6.0\appsettings.json
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\bin\Debug\net6.0\Site1.staticwebassets.runtime.json
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\bin\Debug\net6.0\Site1.exe
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\bin\Debug\net6.0\Site1.deps.json
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\bin\Debug\net6.0\Site1.runtimeconfig.json
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\bin\Debug\net6.0\Site1.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\bin\Debug\net6.0\Site1.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\obj\Debug\net6.0\Site1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\obj\Debug\net6.0\Site1.AssemblyInfoInputs.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\obj\Debug\net6.0\Site1.AssemblyInfo.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\obj\Debug\net6.0\Site1.csproj.CoreCompileInputs.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\obj\Debug\net6.0\Site1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\obj\Debug\net6.0\Site1.RazorAssemblyInfo.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\obj\Debug\net6.0\Site1.RazorAssemblyInfo.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\obj\Debug\net6.0\staticwebassets\msbuild.Site1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\obj\Debug\net6.0\staticwebassets\msbuild.build.Site1.props
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Site1.props
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Site1.props
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\obj\Debug\net6.0\scopedcss\bundle\Site1.styles.css
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\obj\Debug\net6.0\scopedcss\projectbundle\Site1.bundle.scp.css
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\obj\Debug\net6.0\Site1.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\obj\Debug\net6.0\refint\Site1.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\obj\Debug\net6.0\Site1.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\obj\Debug\net6.0\Site1.genruntimeconfig.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Site C# Try\Site1\Site1\obj\Debug\net6.0\ref\Site1.dll
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\bin\Debug\net6.0\appsettings.json
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\bin\Debug\net6.0\Site1.staticwebassets.runtime.json
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\bin\Debug\net6.0\Site1.exe
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\bin\Debug\net6.0\Site1.deps.json
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\bin\Debug\net6.0\Site1.runtimeconfig.json
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\bin\Debug\net6.0\Site1.dll
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\bin\Debug\net6.0\Site1.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\obj\Debug\net6.0\Site1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\obj\Debug\net6.0\Site1.AssemblyInfoInputs.cache
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\obj\Debug\net6.0\Site1.AssemblyInfo.cs
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\obj\Debug\net6.0\Site1.csproj.CoreCompileInputs.cache
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\obj\Debug\net6.0\Site1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\obj\Debug\net6.0\Site1.RazorAssemblyInfo.cache
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\obj\Debug\net6.0\Site1.RazorAssemblyInfo.cs
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\obj\Debug\net6.0\staticwebassets\msbuild.Site1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\obj\Debug\net6.0\staticwebassets\msbuild.build.Site1.props
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Site1.props
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Site1.props
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\obj\Debug\net6.0\scopedcss\bundle\Site1.styles.css
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\obj\Debug\net6.0\scopedcss\projectbundle\Site1.bundle.scp.css
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\obj\Debug\net6.0\Site1.dll
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\obj\Debug\net6.0\refint\Site1.dll
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\obj\Debug\net6.0\Site1.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\obj\Debug\net6.0\Site1.genruntimeconfig.cache
+C:\Users\deadi\OneDrive\Рабочий стол\ярлыки все\Site C# Try\Site1\Site1\obj\Debug\net6.0\ref\Site1.dll
